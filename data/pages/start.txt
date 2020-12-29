@@ -1,0 +1,3 @@
+This is the **start** page for my generals wiki. The hope is that this site functions both as an organizational and substantial tool for mapping the fields I'm studying and reading.
+
+===== Testing Formatting =====

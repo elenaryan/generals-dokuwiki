@@ -1,0 +1,72 @@
+====White, The Middle Ground: Indians, Empires, and Republics in the Great Lakes Region, 1650-1815====
+=== Animating Questions/Argument: === 
+White seeks to jettison the oversimplified narratives of European-Indian contact. His area of focus is the Great Lakes region -- what the French called the //pays d'en haut//. He describes this region as a middle ground: “the place in between: in between cultures, peoples, and in between empires and the nonstate world of villages.”((White, //The Middle Ground//, x)) In this story, White traces the middle ground from contact to its 19th c. dissolution upon American state establishment.
+\\
+\\
+White criticizes prior reductionist history that labelled gifts as mere bribes, allies as mere mercenaries, women as mere prostitutes, missions as solely coercive, and murderers as simply self-interested.((White, //The Middle Ground//, 95.))
+\\
+\\
+**1.** Chapter 1 sets the context for the Middle Ground. Over the second half of the seventeenth century, Iroquois raids pushed Algonquians westward. They found some protection in refugee camps where they attempted to create kin networks through calumet ceremonies, gift giving, and intermarriage. Living in close proximity brought challenges in disease and limited hunting. With a formal alliance with the French in 1701, refugees began to spread and the middle ground could begin to take shape. 
+
+**2.** Chapter 2 gets at the creation of the Middle Ground and its two key issues: sex and violence. Marriage politicizes sex and both marriage and extramarital relations serve to bind French and Algonquians. Different approaches to violence (e.g. the French's established guilt-finding system as opposed to Indian concern with compensation and reestablishment of peace) created bizarre cultural hybrids.((White, //The Middle Ground//, 79)) So the Middle Ground's response to violence was mutually intelligible but not in a stable way because of competing understands of justice and vengeance.((White, 93))
+
+
+**3.** Chapter 3 takes a substantivist position in the "tired formalist vs. substantivist debate" to argue that the Algonquian conception of exchange was highly localized and context-specific. It was not reducible to "rationality" or universal economic laws as the formalist position suggests. White states further, beyond even classic substantivism, the nno matter the locality of Algonquian perception, with the fur trade they "had indeed become part of a world market" such that the emerging market system impinged on their lives.((White, 95)) The fur trade, though, is one of many conduits of cultural exchange that can't be separated from the broader phenomenon.
+\\
+
+**4. ** Chapter 4 discusses the "Janus-faced" alliance between French and Algonquians against the Iroquois forged in 1701 and lasting during the first half of the eighteenth century.((Brett Rushforth also uses this as a turning point in "A Little Flesh We Offer You")) This chapter introduces the French governor -- Onontio -- the patriarchal and mediating figure in Indigenous politics in the Great Lakes region. White insists they needed this mediation (but I am less convinced). White separates the Indigenous world into "blocks" where different Native groups ran up against one another on the edges.
+
+**5. ** Chapter 5 discusses the village and imperial levels of the middle ground. White describes the multiethnic villages as "the first republics."((White, 188)) White argues, here, that the first half of the 18th century saw the breakdown of old chiefdoms and "a new political order." This occurred because village and imperial politics had become inseparable.
+
+**6. ** Chapter 6 discusses initial clashes of the British and French in the Ohio Valley. In White's words, both the republicans of the Ohio Valley and the Iroquois feared empires, "they only disagreed on which empire they feared more."((White, 226)) Iroquois feared British power and republicans feared French interference with British trade. The mid-eighteenth century sees a shift in the middle ground -- perhaps its dissolution, as the French turn to force. There's a paradox in chiefs' power on the Middle Ground and, in the aftermath of the 7 Years' War, the British waffle between generosity and stinginess, destabilizing the middle ground.
+
+**7. ** In Chapter 7, White argues against Francis Parkman that Pontiac's Rebellion was not a racial showdown, but succeeded in restoring the Middle Ground -- turning the British into fathers. There's also a loose thread here about religious syncretism.((White, 271)) To end Pontiac's War, the British sought to placate the Algonquians with gift-giving and a supervised rum trade -- though this early iteration was "soulless" without mediation. Even sporadic mediation, a few years after the war did not stabilize the alliance and the shaky middle ground had a highly local tenor for the next generation.
+
+**8. ** Chapter 8 focuses on the British-Algonquian alliance meant to be modeled after the French alliance. William Johnson, British man in charge of Indian policy in New York, struggled to convince the British that the expenses of the middle ground were necessary. By the end of his life, Johnson no longer mediated so much as he began to pit his "children" against one another. Between Pontiac's War and the Amer. Rev., Johnson's attempts at negotiation, surveillance, and control proved expensive, divisive, and unsuccessful, fostering enmity between Indians and British and Indians and Indians. The squatters trickling into the backcountry further complicated this.
+
+**9. ** Chapter 9 discusses the impact of the American Revolution on the pays d'en haut. Again, White emphasizes the village-centric political composition of the pays d'en haut to argue that village interests had as much to do with loyalties as the U.S./British contest.((White, 367)) This chapter discusses American infringement onto the pays d'en haut and the early era of required accommodation even while United States officials advocated eradication and invasion of Indian territory from the earliest days.
+
+**10. ** The 10th chapter charts the early days of the American republic and the Indian confederacies that formed in opposition to the shaky (though ambitious) young state. The young United States needed the revenue from land sales to pay down the war debt. Unfortunately, the nation did not actually control the land. So how do we understand the breakdown of the middle ground? White attributes it to liquor and American ambitions/sentiments. ((White, 423)) American officials scorn the middle ground but remain weak and war dominates the borderlands. Here it seems the middle ground was beyond repair -- though White tries to insist on possibilities for accommodation. British aid fades and the Indians lose much leverage in the 90s.
+
+**11. ** The final chapter focuses on the early republic and its Indian policies. Jefferson intended coexistence on the pays d'en haut -- but acculturation based on labor and property rather than Middle Ground. There might be an argument about capitalism here, because consolidation and rationalization of trade become increasingly important and increasingly privatized. In any case, the fate of the fur trade threatened Algonquians with economic dependence.((White, 482)) This story finds its conclusion with reactionary nativism spearheaded by Tenskatawa and Tecumseh who advocated for an Indian-ness in opposition with Anglo-Americans. White sees the end of Indians' political significance in 1812 with the death of the imperial contest and Tecumseh's death.((White, 517))
+=== Contribution to the Field: === 
+
+White offered a new framework for understanding cultural encounter -- and challenged old history in two major ways: \\
+  *  He focused on Indian experiences rather than European\\
+  *  He also argued that Indians //did// exercise power over the land and culture of the Middle Ground\\
+
+Since its publication, historians have imported the concept of //The Middle Ground// to different places and moments with varying success.((Please give some examples)) They've sought to emphasize what he calls negotiation and compromise -- creative misunderstandings -- rather than cultural collision.
+\\
+=== Sources and Methodology: === 
+White considers himself a part of [[navigation:themes:New Indian History]], which is to say his topic is not the European colonists, but the Indians in this story of encounter.((xi)) For sources, he trusts most not European writings on “savages” at the metropole, but on those produced by people who lived alongside the Indians. Also does not use ethnological technique “upstreaming” which uses ethnologies of present-day or more recent Indian groups to interpret societies of the past. Insists that it has a built-in bias towards continuity.\\
+Rejects too the idea of some “essential” Indian-ness that might trickle in from modern conceptions of European constructions of Indigeneity.
+  * Jesuit Relations
+  * Nicholas Perrot and travel writings
+  * treaties
+  * legal records -- particularly for describing the hybird legal system
+
+
+\\
+=== Critiques: === 
+
+
+
+
+Not a critique of White per sé but it seems that it is actually insufficient to try and import the “middle ground” beyond the pays d’en haut. The point is that the middle ground was specific to the geopolitical dynamics of the great lakes region. That said, the proliferation of scholarship that uses the middle ground framework is a testament to the field’s dissatisfaction with the very real and oversimple narrative that still proves pervasive and reduces the Indian to conquered and exoticized other. This occurs to me here because White is discussing in no uncertain terms what the middle ground is.((xi))
+
+\\
+
+
+=== Questions: ===
+On pages 64 and 65, White remarks on the comparable "freedom" of native women to initiate and dissolve sexual relationships without formal marriage.  If these sexual relationships, in marriage or outside of it, carried the weight of cultural exchange, political actions, and "necessary connections," can they really be a mark of female "freedom?"  In other words, is White's assessment of female natives' freedom adequately aware of the political uses of native women that he details?  How significant is sex and marriage to the formation of the middle ground?  Where does this leave Algonquian women in comparison to their relative "freedom?"
+\\
+\\
+White's book, at its core, focuses on debunking what he calls the "formalist position" with examples of complex inter-cultural transactions and relationships.  Does this strategy adequately account for the real subjection of Native Americans by European powers or does his stress on "accommodation" manufacture complicity between the Algonquians and French, particularly in the first half of the book?
+
+=== Related Authors and Books: === 
+[[https://www.jstor.org/stable/3491721 | Forum on the Middle Ground]] (WMQ, 2006) \\
+[[navigation:rushforth_bonds_of_alliance | Brett Rushforth, Bonds of Alliance]]
+  * Rushforth's narrative arc on slavery in New France suggests a shift in the Middle Ground that White does not totally account for marked by the 1701 alliance that is the subject of White's 4th chapter.
+
+\\
+White, Richard. //The Middle Ground: Indians, Empires, and Republics in the Great Lakes Region, 1650-1815//. London: Cambridge University Press, 1991.
