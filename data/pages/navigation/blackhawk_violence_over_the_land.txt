@@ -1,0 +1,30 @@
+====Blackhawk, Violence Over the Land: Indians and Empires in the Early American West====
+=== Animating Questions/Argument: === 
+Blackhawk writes to revise the old American myth that its history is a realm of achievement. Rather, Blackhawk argues, its history is a realm of Indigenous trauma.((Blackhawk, 1.)) Blackhawk describes how violence became the currency of the early American West and posits that Indigenous people adopted European methods and technologies of violence to survive. In doing so, Europeans and Indigenous people, alike, made and remade the West, all the time inflicting trauma on one another and on the landscape.
+
+Blackhawk argues against "Old" Indian history and anthropology -- categorizing himself under [[navigation:themes:new_indian_history|New Indian history]]. Notably, he takes aim at Julian Steward, twentieth c. anthropologist who called early Indigenous people of the West, "people without history."((Blackhawk, 13.))\\ \\ 
+
+The economy of the Great Basin required violence -- basing itself on cycles of captivity and captive exchange. He makes clear that the Comanches and Utes, until their alliance with the Spanish in 1750, dominated the Europeans, Mexicans, and other Indigenous people of the Great Basin (Navajo, Shoshone, and Paiute).
+\\
+=== Contribution to the Field: === 
+Besides roundly refuting the old arguments that Indians have no history, Blackhawk skillfully demonstrates that violence was calling card of European interlopers in the Great Basin and that violence united the geopolitical landscape before any single group achieved dominance. This violence took the form of war, captivity, sexual violence, and ecological violence. With the encroaching and increasingly global economy reaching into the Great Basin in the mid-nineteenth century, trade routes and interests shift (see James Brooks -- whom he speaks directly to on 189), and Americans venture into the West. The Utes come to rely on American weapons and goods to maintain dominance during the nineteenth century, though Americans assume a priori dispossession.((Blackhawk, 121)).
+
+\\
+=== Sources and Methodology: === 
+Blackhawk uses his sources ingeniously. He recovers Indigenous experiences and actions from Spanish, French, Mexican, and American sources. He also deploys post-colonial theory and theories of violence and trauma -- Gayatri Spivak and our old friend Elaine Scarry. His history is political and cultural, also investigating the rise of the state in which he cites Barbara Welke on the state and violence.\\ \\
+Before contact, the Utes and Comanches determined the violence of the region -- wars to incorporate captives. Spanish arrival in 1598 heralded a cycle of slave and horse raids, also introduced labor-based slavery, economic motivations, and sexual and reproductive exploitation of women and children. In sum, Indigenous people made and remade the West by acting on and adopting European forms of violence.
+
+\\
+=== Critiques: === 
+My two main critiques (as seen in my book review) are first that Blackhawk does not always give sufficient context for understanding the broader political dynamics of the Great Basin. When he shifts focus -- for example, away from Mexicans after Mexican independence -- he practically dismisses Spain and Mexico from the scene. In other words, we lose the broader context of the region when Blackhawk neglects to explain how and why Spain/Mexico fade from his primary argument.\\ \\ 
+Secondarily, Blackhawk emphasizes the many forms of violence without differentiating between their specific impacts in detail. For example, he addresses, briefly, the trauma of sexual violence. But he does not delve into the large scale impacts of ecological vs. sexual vs. economic violence. This is not a pitfall (a book can only be so long and it could distract from the essential general point he is making about violence). But it is room to grow.
+\\
+=== Related Authors and Books: === 
+[[https://catalog.princeton.edu/catalog/12051583|James Brooks, Captives and Cousins]]\\
+[[navigation:white_the_middle_ground|White, The Middle Ground: Indians, Empires, and Republics in the Great Lakes Region, 1650-1815]]\\
+[[navigation:themes:new_indian_history|New Indian History]]
+\\
+=== Reader's Questions: === 
+
+\\
+Blackhawk, Ned. //Violence Over the Land: Indians and Empires in the Early American West//. Cambridge: Harvard University Press, 2008.
