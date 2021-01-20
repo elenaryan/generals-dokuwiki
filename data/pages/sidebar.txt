@@ -9,5 +9,6 @@
 
 ==== Misc. ====
 [[Navigation:Books]] \\
-[[Navigation:Themes]]
+[[Navigation:Themes]]\\
+[[Navigation:Timeline]]
 

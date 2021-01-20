@@ -2,17 +2,26 @@
 === Animating Questions/Argument: === 
 Foucault writes against the idea that the history of sexuality has been a history of repression. Indeed, in his own words, "The question I would like to pose is not, Why are we repressed? But rather, Why do we say, with so much passion and so much resentment against our most recent past, against our present, and against ourselves, that we are repressed? What led us to show, **ostentatiously**, that sex is something we hide, to say it is something we silence?”((Foucault, 8)) The idea of repression is closely tied to the idea that power in society primarily operates through repression: censorship, prohibition, denial.\\ \\
 
-Rather, Foucault argues, the supposed rise of repression brought the rise of a "Secret Life" -- a new discourse -- that emerged to govern and police not only appropriate topics of conversation and modes of expression, but also a person's very desires (as we see in confession).
+Rather, Foucault argues, the supposed rise of repression brought the rise of a "Secret Life" -- a new discourse -- that emerged to govern and police not only appropriate topics of conversation and modes of expression, but also a person's very desires (as we see in confession). Foucault insists that, not repressed, sex became //discursive// in the Victorian Era. And, indeed, it was not a single discourse, but "a multiplicity of discourses."((Foucault, 33))\\ \\
+
+Here, Foucault also introduces the idea of "bio-power" and asks if we are so fired up about sexuality in order to "ensure population... to constitute a sexuality that is economically useful and politically conservative?"((Foucault, 37))
 \\
 === Contribution to the Field: === 
-
+It is no exaggeration to suggest that this is **the book** on the history of sexuality. In his call to question the meaning and substance of power, its relationship to sexuality and repression, and his attempt to historicize the discourses constructed around sexuality, Foucault jumpstarted his own multiplicity of discourses. Practically every author who engages gender and sexuality must engage Foucault and typically do so on a few different threads:
+  * Periodization of the discourses that surround sexuality
+  * Consent and the discourses surrounding the child -- as well as the mentally ill
+  * bio-power or the way sexual "norms" converge to control and encourage population growth and the population, itself
+  * ars erotica and scientia sexualis
 \\
 === Sources and Methodology: === 
 
 \\
 === Critiques: === 
-
-\\
+One major, regular critique in the scholarship is a critique of Foucault's periodization -- insisting that the discursive turn and later the adoption of the repression model happened at different times than he insists. (I believe we can see this in Chauncey, Stoler, D'Emilio, potentially Canaday and Howard as well).
+\\ \\
+Another common critique deals with Foucault's understanding of race and colonialism. Many authors writing in conversation with Foucault suggest that he does not adequately address
+\\ \\
+Foucault also seems to skillfully elide questions of consent -- or seems to suggest
 === Related Authors and Books: === 
 
 \\
