@@ -1,0 +1,34 @@
+====Scott, Gender: A  Useful Category of Historical Analysis====
+=== Animating Questions/Argument: === 
+Gender and race don’t have the same clarity as class when used as categories for analysis so we need useful theoretical frameworks for gender because we need a synthesizing perspective and also because women’s history remains marginal in the field.((Scott, 1055))
+
+Gender is a constitutive element of social relationships based on perceived differences between the sexes with four elements:
+  * 1.	Culturally available symbols that evoke multiple representations [of gender]
+  * 2.	Normative concepts that set forth interpretations of the meanings of the symbols, that attempt to limit and contain their possibilities
+  * 3.	Must include a notion of politics as well as reference to social institutions and orgs
+  * 4.	Subjective identity
+
+ALSO, gender is a primary way of signifying relationships of power((Scott, 1067))
+\\
+=== Contribution to the Field: === 
+Here, Scott picks a fight with essentially the whole field of history, but especially with gender studies and women's history to say that we need to start using gender as an analytical category both to avoid ahistoricism and to view, more rightly, how gender operates in realms typically seen as set apart from gender studies, like war, diplomacy, and high politics.
+\\
+=== Sources and Methodology: === 
+Scott surveys three major sections of gender studies: studies of patriarchy, Marxist historiography, and psychoanalytic theories to show each one's pitfalls. They tend to land on biological or gender essentialism. Another pitfall is muddling the relationship between economic systems and gender systems (which tend to give primacy to economic systems).
+\\
+=== Critiques: === 
+[[navigation:isenberg_second_thoughts_on_woman_s_and_gender_history|Isenberg]] bristles at Scott's characterization of women's studies and insists that the problem with gender studies is not that it is missing a category of analysis but that it requires a culture of inquiry that pushes the boundaries of analysis and historical significance.
+
+She has other particular quibbles with Scott but these seem both irrelevant and a bit mean-spirited. In particular, she criticizes Scott's use of Foucault for being "selective." But firstly, Scott is not dogmatic about her deployment of Foucault. Secondly, I fail to see the issues with taking what is salient from certain people or theories and leaving the rest.
+\\
+=== Related Authors and Books: === 
+Margot Canaday, //The Straight State// \\
+Kerber \\
+Mary Beth Norton \\
+[[navigation:isenberg_second_thoughts_on_woman_s_and_gender_history|Isenberg, Second Thoughts on Gender and Women's History]] \\
+[[navigation:foucault_history_of_sexuality_introduction|Foucault, The History of Sexuality, Volume I: An Introduction]]
+\\
+=== Reader's Questions: === 
+
+\\
+Scott, Joan. "Gender: A  Useful Category of Historical Analysis."//The American Historical Review// 91, no.5 (1986): 1053-1075.

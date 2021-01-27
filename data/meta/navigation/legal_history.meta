@@ -1,4 +1,19 @@
-a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1608586343;s:8:"modified";i:1608586343;}s:11:"last_change";a:8:{s:4:"date";i:1608586343;s:2:"ip";s:3:"::1";s:4:"type";s:1:"C";s:2:"id";s:24:"navigation:legal_history";s:4:"user";s:0:"";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:244;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:18:"Legal History (LE)";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:16:"legal_history_le";s:5:"title";s:18:"Legal History (LE)";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:192:"Legal History (LE)
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1608586343;s:8:"modified";i:1611760791;}s:11:"last_change";a:8:{s:4:"date";i:1611760791;s:2:"ip";s:3:"::1";s:4:"type";s:1:"E";s:2:"id";s:24:"navigation:legal_history";s:4:"user";s:0:"";s:3:"sum";s:12:"adding stuff";s:5:"extra";s:0:"";s:10:"sizechange";i:424;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:18:"Legal History (LE)";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:16:"legal_history_le";s:5:"title";s:18:"Legal History (LE)";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:505:"Legal History (LE)
+
+Approaches to Legal History
+
+Holmes, "The Path of Law" 
+
+Hurst, Law and the Conditions of Freedom in the Nineteenth-Century United States 
+
+Thompson, Whigs and Hunters 
+
+Gordon, Critical Legal Histories 
+
+Gordon, J. Willard Hurst and the Common Law Tradition in American Legal Historiography 
+
+Gordon, Introduction, A Troubled Profession in Looking Back at Law’s Century 
+
 
 The Antebellum North and South
 
@@ -6,6 +21,4 @@ Tocqueville, Democracy in America
 
 Edwards, The People and their Peace 
 
-Frymer, "Building and American Empire" 
-
-Twitty, Before Dred Scott";}s:8:"relation";a:2:{s:10:"references";a:4:{s:43:"navigation:tocqueville_democracy_in_america";b:0;s:45:"navigation:edwards_the_people_and_their_peace";b:1;s:46:"navigation:frymer_building_and_american_empire";b:0;s:35:"navigation:twitty_before_dred_scott";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1608586343;}s:11:"last_change";a:8:{s:4:"date";i:1608586343;s:2:"ip";s:3:"::1";s:4:"type";s:1:"C";s:2:"id";s:24:"navigation:legal_history";s:4:"user";s:0:"";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:244;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}
+…";}s:8:"relation";a:2:{s:10:"references";a:10:{s:33:"navigation:holmes_the_path_of_law";b:1;s:90:"navigation:hurst_law_and_the_conditions_of_freedom_in_the_nineteenth-century_united_states";b:0;s:37:"navigation:thompson_whigs_and_hunters";b:0;s:42:"navigation:gordon_critical_legal_histories";b:0;s:96:"navigation:gordon_j._willard_hurst_and_the_common_law_tradition_in_american_legal_historiography";b:0;s:85:"navigation:gordon_introduction_a_troubled_profession_in_looking_back_at_law_s_century";b:0;s:43:"navigation:tocqueville_democracy_in_america";b:0;s:45:"navigation:edwards_the_people_and_their_peace";b:1;s:46:"navigation:frymer_building_and_american_empire";b:0;s:35:"navigation:twitty_before_dred_scott";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:2:{s:7:"created";i:1608586343;s:8:"modified";i:1611760791;}s:11:"last_change";a:8:{s:4:"date";i:1611760791;s:2:"ip";s:3:"::1";s:4:"type";s:1:"E";s:2:"id";s:24:"navigation:legal_history";s:4:"user";s:0:"";s:3:"sum";s:12:"adding stuff";s:5:"extra";s:0:"";s:10:"sizechange";i:424;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

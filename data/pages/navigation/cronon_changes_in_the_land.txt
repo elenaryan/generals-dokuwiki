@@ -1,20 +1,35 @@
 ====Cronon, Changes in the Land: Indians, Colonists, and the Ecology of New England====
 === Animating Questions/Argument: === 
+Self-defined thesis “the shift from Indian to European dominance in New England entailed important changes – well known to historians – in the ways these peoples organized their lives, but it also involved fundamental reorganizations – less well known to historians – in the region’s plant and animal communities.”((Cronon, 1))\\ \\
 
+Cronon focuses to a large degree on //uses// of the land -- and how the different approaches of Indians and the English to the land, labor, and livestock came into conflict. Important to this is that the English from 1600-1800ish adopted a use of the land that was highly destructive, clearing the forest of its trees and animals and chiseling the land into plots that levied a new regime of property ownership and rights.\\
+\\
+I also think that his chapter on property is perhaps the most essential because it articulates very well the key differences between how Indians perceived ownership (more as use) and how the English did (as bound up in sovereignty and personal ownership)((Cronon, 70))
 \\
 === Contribution to the Field: === 
-
+Really, Cronon pioneered environmental history in American history. This book is an important classic because it, firstly, in part adds to [[navigation:themes:new_indian_history|New Indian History]] by insisting on Indian actions (rather than dependence or subjugation) as a force in colonial history. Secondly, he does not so much moralize "changes in the land" as "natural" or not. Rather he insists that there is no "real" nature -- at least not one that humans can get at. He also advances the argument that the land necessarily changed as human relationships with each other changed through early English capitalism as it stretched across the Atlantic.
 \\
 === Sources and Methodology: === 
+Key methodological choices: first to cast off old and simple narratives of declension or progress. Cronon also rejects the "functionalist" view that all ecological change was either moving towards equilibrium or //at// equilibrium and that humans interrupted this constant progress.((Cronon, 10)) Cronon insists there is no stasis, with or without human presence. He also insists that Indians did not stabilize the environment -- did not //function// to stabilize ecological relationships.((Cronon, 13)) In short, Cronon seeks to historicize nature.
+
+\\ 
+His sources are, pretty much without exception, travel writing and English accounts. Which he only kind of reads against the grain to imagine where they might be over-critical or biased.
 
 \\
 === Critiques: === 
-
+My constant critique of anything that uses this word is the slipperiness of "capitalism."
 \\
 === Related Authors and Books: === 
+  * Francis Jennings
+  * Alfred Crosby
+
 
 \\
 === Reader's Questions: === 
+Cronon hints at the legal regime that undergirded the changes in property in colonial New England. But what powered this legal system? How did it create property? The threat of force? Trade relationships? This is not clear. \\
+\\
+How does Cronon define capitalism?\\
+
 
 \\
 Cronon, William. //Changes in the Land: Indians, Colonists, and the Ecology of New England//. New York: Hill and Wang, 1983.

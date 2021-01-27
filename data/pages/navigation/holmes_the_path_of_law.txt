@@ -1,0 +1,26 @@
+====Holmes, The Path of the Law====
+=== Animating Questions/Argument: === 
+Holmes Jr. has two key problems that he is using to "by a series of hints... throw some light on the narrow path of legal doctrine, and upon to pitfalls which lie perilously near to it."((Holmes jr., 997)) First, he takes issue with the confusion between moral and legal problems, exacerbated by the use of "malice," "intent," and "negligence" in legal cases. He explains that while we might like to believe or indeed believe that the law has some sort of conscience or inherent relationship to morality, the bad man cares very little for the rationale and theoretical dimensions of the law.((Holmes jr., 994))
+
+Secondly, Holmes jr. argues that the other fallacy: "the notion that the only force at work in the development of the law is logic.((Holmes jr., 997))
+
+
+It's also key that he views law and its practice as mere prediction: "the prediction of the incidence of the public force through the instrumentality of the courts."((Holmes jr., 991))
+
+\\
+=== Contribution to the Field: === 
+Holmes' prediction theory of law has proved enduring in some circles (I think???)
+\\
+=== Sources and Methodology: === 
+He appeals to kind of... real world examples. For example, he is concerned with what the bad man must think when considering the law -- he is only concerned with the consequences. 
+\\
+=== Critiques: === 
+
+\\
+=== Related Authors and Books: === 
+
+\\
+=== Reader's Questions: === 
+Is this a materialist take on the law? Positivist? It seems connected to OWHjr's pragmatism.
+\\
+Wendell Holmes Jr., Oliver. "The Path of the Law."//Harvard Law Review// 10, no.1 (1897): 457-78.

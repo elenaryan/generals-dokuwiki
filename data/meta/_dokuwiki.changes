@@ -1,23 +1,32 @@
-1609274852	::1	E	navigation:lepore_the_name_of_war				1
-1609433159	::1	E	navigation:lepore_the_name_of_war		Lepore critique		872
-1609528205	::1	E	navigation:lepore_the_name_of_war		sources		803
-1609529105	::1	E	navigation:lepore_the_name_of_war		critiques		980
-1609797789	::1	C	navigation:brooks_our_beloved_kin		created		396
-1609957165	::1	E	navigation:brooks_our_beloved_kin				421
-1609975951	::1	C	navigation:blackhawk_violence_over_the_land		created		1580
-1609975996	::1	E	navigation:blackhawk_violence_over_the_land				52
-1609976019	::1	E	navigation:blackhawk_violence_over_the_land				7
-1610048361	::1	E	navigation:blackhawk_violence_over_the_land				1
-1610050285	::1	E	navigation:blackhawk_violence_over_the_land				1600
-1610050802	::1	E	navigation:blackhawk_violence_over_the_land		critiques etc		935
-1610050927	::1	E	navigation:blackhawk_violence_over_the_land				224
-1610120380	::1	C	navigation:cronon_changes_in_the_land		created		430
-1610486387	::1	C	navigation:brooks_the_common_pot		created		486
-1610725470	::1	C	navigation:gender_and_sexuality		created		517
-1610725578	::1	C	navigation:foucault_history_of_sexuality_introduction		created		393
-1610727307	::1	E	navigation:foucault_history_of_sexuality_introduction				909
-1610732449	::1	E	navigation:foucault_history_of_sexuality_introduction				1759
 1611174766	::1	E	navigation:foucault_history_of_sexuality_introduction				10
 1611174906	::1	C	navigation:eliot_empires_of_the_atlantic_world		created		439
 1611181831	::1	E	sidebar				26
 1611182373	::1	C	navigation:timeline		created		68
+1611183892	::1	E	navigation:cronon_changes_in_the_land		overarching themes		1548
+1611184337	::1	E	navigation:cronon_changes_in_the_land				89
+1611254812	::1	E	navigation:cronon_changes_in_the_land		blah blah who cares		1203
+1611586786	::1	E	navigation:ww_books				2
+1611586817	::1	D	navigation:eliot_empires_of_the_atlantic_world		removed		-439
+1611586826	::1	C	navigation:elliott_empires_of_the_atlantic_world		created		439
+1611586840	::1	E	navigation:elliott_empires_of_the_atlantic_world				3
+1611586854	::1	E	navigation:ww_books				-32
+1611588592	::1	E	navigation:elliott_empires_of_the_atlantic_world				439
+1611590076	::1	E	navigation:elliott_empires_of_the_atlantic_world				406
+1611590099	::1	E	navigation:elliott_empires_of_the_atlantic_world				-2
+1611597109	::1	E	navigation:elliott_empires_of_the_atlantic_world				415
+1611606585	::1	E	navigation:elliott_empires_of_the_atlantic_world				293
+1611606670	::1	C	navigation:richter_before_the_revolution		created		420
+1611608251	::1	C	navigation:isenberg_second_thoughts_on_woman_s_and_gender_history		created		392
+1611627450	::1	E	navigation:gender_and_sexuality		reorder		0
+1611627860	::1	E	navigation:gender_and_sexuality				-6
+1611627883	::1	E	navigation:gender_and_sexuality				-34
+1611673039	::1	E	navigation:richter_before_the_revolution				-3
+1611760021	::1	E	navigation:richter_before_the_revolution				1439
+1611760514	::1	E	navigation:richter_before_the_revolution		finito		1212
+1611760791	::1	E	navigation:legal_history		adding stuff		424
+1611762045	::1	E	navigation:isenberg_second_thoughts_on_woman_s_and_gender_history				1082
+1611762073	::1	E	navigation:isenberg_second_thoughts_on_woman_s_and_gender_history		citation		17
+1611763303	::1	C	navigation:holmes_the_path_of_law		created		1301
+1611763729	::1	E	navigation:holmes_the_path_of_law				353
+1611771430	::1	C	navigation:scott_gender_a_useful_category_of_analysis		created		2980
+1611771552	::1	C	navigation:thompson_whigs_and_hunters		created		376

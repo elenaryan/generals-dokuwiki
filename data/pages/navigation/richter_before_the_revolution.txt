@@ -1,0 +1,32 @@
+====Richter, Before the Revolution: America's Ancient Pasts====
+=== Animating Questions/Argument: === 
+Richter's main argument is simply that the present of America (and indeed it's fairly North American) relies on layers of culture and cultural actors that he describes using a geological metaphor wherein each layer builds on the layer before it and molds the layer after it such that even in the present there is still evidence of the distant past.
+Here are his layers:
+  * progenitors - pre-contact forbears
+  * conquistadores - European "crusaders" to the Americas
+  * traders - the Indigenous and European people who exchanged goods
+  * planters - the (primarily) European people carving out plots and cultivating crops in the Americas
+  * imperialists - the leaders at the metropole and at home carrying out the imperial project (esp. after British Restoration
+  * atlanteans - the denizens of a distinctly connected Atlantic world (eighteenth c., for the most part)
+\\
+=== Contribution to the Field: === 
+Richter provides a synthesis that is attuned broadly to the different technologies of power that developed in Native America as opposed to Western Europe. He marks as his starting point the period of global warming between 900 and 1300 that led both Native Americans and Europeans to adopt new systems of farming. In America these systems were kinship based and produced squash/corn/beans, whereas Europe adopted the feudal system.
+
+KEY THEMES HERE: The way power works. Richter claims in Native America, at first, power flowed through leaders -- not from them.((Richter, 24, 36)) In Medieval Europe, power was far more centralized and attached to property as ownership, which hearkens back to Cronon.((Richter, 63))
+
+Additionally, religion shapes the contests and competition of the New Land from contact. In this way, Richter often overlaps with Elliott.
+\\
+=== Sources and Methodology: === 
+As with any synthesis, Richter paints with a broad brush, though not too much to his detriment. His framework, described above, suggests that perhaps the early modern Atlantic world owed more to its past than it invented. In this way, it seems he is perhaps arguing a bit with histories of capitalism to say that actually much of the way settlement and imperialism happened in the new world came out of medieval times more than it indicated "modernity" or "capitalism."((Richter, 5))
+\\
+=== Critiques: === 
+Sometimes he paints with a really broad brush -- like when he insists that if Native Americans shared anything in common it was how they thought of power and how it was mobilized. 
+\\
+=== Related Authors and Books: === 
+[[navigation:elliott_empires_of_the_atlantic_world|J. H. Elliott, Empires of the Atlantic World: Britain and Spain in America, 1492-1830]]\\
+[[navigation:cronon_changes_in_the_land|Cronon, Changes in the Land: Indians, Colonists, and the Ecology of New England]]
+\\
+=== Reader's Questions: === 
+
+\\
+K. Richter, Daniel. //Before the Revolution: America's Ancient Pasts//. Cambridge: The Belknap Press of Harvard University Press, 2011.
