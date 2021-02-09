@@ -8,4 +8,7 @@
 [[ Isenberg, "Second Thoughts on Woman's and Gender History"]] \\ 
 [[ Kerber, "Separate Spheres, Female Worlds, Woman’s Place"]] \\
 [[ Stoler, Race and the Education of Desire]]\\
-[[ Dayton and Levenstein, "The Big Tent of U.S. Women’s and Gender History: A State of the Field”]]\\
+[[ Dayton and Levenstein, "The Big Tent of U.S. Women’s and Gender History”]]\\
+
+
+  * [[ Foundations -- Synopsis and Key Quotes ]]

@@ -1,0 +1,34 @@
+====Gordon, Critical Legal Histories====
+=== Animating Questions/Argument: === 
+Gordon is describing "critical legal history" which he defines as the present response to "evolutionary functionalism" that dominated the legal history field really well into the period that Gordon writes in.
+\\
+defs:
+  * **evolutionary functionalism:** holds that law and society are two separate entities but related through various linkages.((Gordon, 60)) Additionally, societies have needs -- one being the need to develop along "the appropriate social path." Further, there is an objective/determined/progressive social path. Legal systems should be described in terms of their //functional// responsiveness to social needs. Indeed, it is further undergirded by the assumption that the legal system adapts to changing social needs.
+       * **formalists** believe that law is judge-made and focus on the development of legal doctrine
+       * **realists** believe that the law is more expansive, including the courts, legislature and administration and that doctrine is just one piece of the policy-making behemoth.
+
+\\
+Gordon goes on to describe a smattering of "partial critiques," notably:
+  * One critique insists that the law does not so much respond to some universal social necessity as it does to competing interests. An iteration of this insists that it is not interest group//s// but the //dominant// group.
+  * Other critiques attempt to weaken the instrumental links between law and society. They qualify the relationships to such an extent that they seem to become somewhat meaningless. In other words, he is not convinced by the idea that when commerce yells "thou must," the law whispers "I can."
+  * Other critiques insist on the law as ideology or that the law is mere symbol/performance
+
+\\
+One key difference, however, between the functionalists and their critics, is that functionalists take what has happened and fit it into the pattern whiles the critic takes each event as not on a single path but on multiple trajectories of possibility.((Gordon, 112))
+\\
+=== Contribution to the Field: === 
+This is a key piece of legal history for the way it articulates major problems of legal history and espouses movement towards critical legal history that is more historical and assume less stasis in the law over time.
+\\
+=== Sources and Methodology: === 
+This is, in some ways, a historiography article. So Gordon draws heavily from previous histories.
+\\
+=== Critiques and Praise: === 
+
+\\
+=== Related Authors and Books: === 
+
+\\
+=== Reader's Questions: === 
+
+\\
+Gordon, Robert. "Critical Legal Histories."//Stanford Law Review// 36, no.1 (1984): 57-125.

@@ -8,7 +8,7 @@
  * you automatically.
  */
 
-
+$conf['htmlok']        = 1; //i wants html
 //$conf['title']       = 'My Wiki';        //what to show in the title
 
 //$conf['useacl']      = 1;                //Use Access Control Lists to restrict access?

@@ -1,18 +1,21 @@
 ====Thompson, Whigs and Hunters: The Origin of the Black Act====
 === Animating Questions/Argument: === 
+Thompson is trying to understand the history of the infamous Waltham Black Act passed without incident in 1723 and became hugely expansive. Though originally meant to (capitally, no less) punish disguised and armed trespassers on land "where deer have been found" it came to be used for a good deal more and was peculiar in both its broad scope and brutality. \\
 
+In writing the history of such an act, Thompson arrives at a series of conclusions about the Black Act, specifically, and, really, law, in general.
+To Thompson, the law is “clearly an instrument of the de facto ruling class: it both defines and defends these rulers’ claims upon resources and labour-power – it says what shall be property and what shall be crime.”((Thompson, 259)) Thompson clarifies, however, that the law is not merely a pliable entity which can be molded any which way to the ends of those in power, but that it is also an ideology which legitimates power. Indeed, “the essential precondition for the effectiveness of law, in its function as ideology, is that it shall display an independence from gross manipulation and shall seem to be just. It cannot seem to be so without upholding its own logic and criteria of equity; indeed, on occasion, by actually being just.”((Thompson, 263))
 \\
 === Contribution to the Field: === 
-
+Thompson's view of law is particularly interesting to the field because while it echoes [[navigation:holmes_the_path_of_law|Holmes]] to say that the "greatest legal fiction is that the law evolves by its own impartial logic," he also insists that "the notion of the rule of law is itself an unqualified good."((Thompson, 250, 267))
 \\
 === Sources and Methodology: === 
-
+Mostly uses court records and the like. It is pretty conventional social history in terms of sources. But his conclusions are intense.
 \\
 === Critiques: === 
-
+I need to think more about his rule of law comment on 267. I'm curious about what kind of reverence we owe the law.
 \\
 === Related Authors and Books: === 
-
+[[navigation:holmes_the_path_of_law|Holmes, The Path of the Law]]
 \\
 === Reader's Questions: === 
 

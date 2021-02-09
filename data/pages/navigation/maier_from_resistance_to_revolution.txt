@@ -1,0 +1,34 @@
+====Maier, From Resistance to Revolution: Colonial Radicals and the Development of American Resistance to Britain, 1765-1776====
+=== Animating Questions/Argument: === 
+Question: Why did (fairly normal) colonial resistance become revolution and why did it happen //when// it did? \\
+To Maier, resistance shifted to revolution in perceptible stages and is best understand as a gradual disillusionment that ultimately created an impassable chasm between mother country and colonies.
+\\ Here are her stages: \\
+  * Per the Lockeian Whigs, popular protest was a natural force in certain circumstances and this phenomenon "often contributed to the public welfare."((Maier, 15))
+  * Though Whigs gladly defended mob protest, they sought to limit violence by what amounts to rules for mob engagement.((Maier, 28))
+  * Protests to the Stamp Act in 1765 (which Maier calls "almost natural") quickly adopt an "order"-- which then sets the pattern for subsequent resistance.
+  * In the wake of the Stamp Act, the intercolonial sons of liberty movement begins -- only to dissolve with the act's repeal in 1766
+  * Resistance revives in 1767 with New York Restraining Act and Townshend Acts -- and resistors begin at least mentioning independence
+  * Colonists begin to believe there is a ministerial plot afoot in 68-70 as they observe Ireland and some Corsican fellow suffer from English austerity abroad
+  * Until the king ignores a petition campaign in 69-70, people assumed his innocence. That fades.
+  * With Tea Act of 1773, networks of correspondence that had grown since Townshend, “by 1773, the American radical leadership was tentatively revolutionary.”((Maier, 227))
+  * When colonists finally declare independence, it is because they have lost all affection for the mother country.
+  * NEW STATE-MAKING: “a revolution in constitutional forms. The achievement of profound political change in the state and federal constitutions of the 1770’s and 1780’s grew logically out of the popular agitation of the years before independence”((Maier, 272))
+
+\\
+=== Contribution to the Field: === 
+Maier makes a causal argument where Bailyn did not to insist that a perceptible, evolving pattern of resistance and reaction to British austerity and perceived misunderstanding and misrepresentation. She adopts a similar turning point to Bailyn but gives a more compelling infrastructure for unity and periodization.
+\\
+=== Sources and Methodology: === 
+Maier uses many of the same sources as Bailyn, but pays special attention to the mobs and correspondence between radical leaders as she calls revolutionary colonists. She also writes with an eye towards the mother country, and, indeed, the empire.
+\\
+=== Critiques and Praise: === 
+
+\\
+=== Related Authors and Books: === 
+[[navigation:bailyn_ideological_origins_of_the_american_revolution|Bailyn, The Ideological Origins of the American Revolution]] (He was her advisor) \\
+[[navigation:lemisch_jack_tar_in_the_streets|Lemisch, Jack Tar in the Streets: Merchant Seamen in the Politics of Revolutionary America]]
+\\
+=== Reader's Questions: === 
+
+\\
+Maier, Pauline. //From Resistance to Revolution: Colonial Radicals and the Development of American Resistance to Britain, 1765-1776//. New York: A. A. Knopf, 1972.
