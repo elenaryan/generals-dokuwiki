@@ -10,6 +10,16 @@
 [[ Gordon, Critical Legal Histories ]] \\
 [[ Gordon, J. Willard Hurst and the Common Law Tradition in American Legal Historiography ]] \\
 [[ Gordon, Introduction, A Troubled Profession in Looking Back at Law’s Century ]] \\
+[[ forum, “Feminist Discourse, Moral Values, and the Law” ]]\\
+[[ Hartog, "Pigs and Positivism" ]]\\
+[[ Hartog, "Snakes in Ireland" ]]\\
+[[ Hartog, "The Constitution of Aspirations" ]]\\
+[[ Crenshaw, "Demarginalizing the Intersection of Race and Sex" ]] \\
+[[ Shapiro, ‘Beyond Reasonable Doubt’ and ‘Probable Cause' ]] \\
+[[ Kennedy, “The Stakes of Law” ]]\\
+[[ Williams, The Alchemy of Race and Rights ]]\\
+[[ Simpson, Leading Cases in the Common Law ]] \\
+
 
 === The Antebellum North and South ===
 [[ Tocqueville, Democracy in America ]] \\
